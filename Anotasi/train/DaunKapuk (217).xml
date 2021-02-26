@@ -1,0 +1,62 @@
+<annotation>
+	<folder>kapuk</folder>
+	<filename>DaunKapuk (217).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\kapuk\DaunKapuk (217).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Kapuk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1552</xmin>
+			<ymin>855</ymin>
+			<xmax>2052</xmax>
+			<ymax>1414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Kapuk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2410</xmin>
+			<ymin>993</ymin>
+			<xmax>2859</xmax>
+			<ymax>1338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Kapuk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2238</xmin>
+			<ymin>280</ymin>
+			<xmax>2683</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Kapuk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2152</xmin>
+			<ymin>1424</ymin>
+			<xmax>2665</xmax>
+			<ymax>1997</ymax>
+		</bndbox>
+	</object>
+</annotation>

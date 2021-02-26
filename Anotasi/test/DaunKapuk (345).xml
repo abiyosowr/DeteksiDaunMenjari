@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kapuk</folder>
+	<filename>DaunKapuk (345).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\kapuk\DaunKapuk (345).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Kapuk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>78</ymin>
+			<xmax>575</xmax>
+			<ymax>929</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>paya biasa</folder>
+	<filename>DaunJarak (230).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\paya biasa\DaunJarak (230).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>2187</ymin>
+			<xmax>1546</xmax>
+			<ymax>3508</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1652</xmin>
+			<ymin>707</ymin>
+			<xmax>2946</xmax>
+			<ymax>1971</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Pepaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1683</xmin>
+			<ymin>2192</ymin>
+			<xmax>2814</xmax>
+			<ymax>3329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Pepaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>634</ymin>
+			<xmax>1619</xmax>
+			<ymax>1987</ymax>
+		</bndbox>
+	</object>
+</annotation>

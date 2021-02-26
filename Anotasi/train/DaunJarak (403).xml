@@ -1,0 +1,38 @@
+<annotation>
+	<folder>paya biasa</folder>
+	<filename>DaunJarak (403).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\paya biasa\DaunJarak (403).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1114</xmin>
+			<ymin>178</ymin>
+			<xmax>2638</xmax>
+			<ymax>2070</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2626</xmin>
+			<ymin>718</ymin>
+			<xmax>3834</xmax>
+			<ymax>2010</ymax>
+		</bndbox>
+	</object>
+</annotation>

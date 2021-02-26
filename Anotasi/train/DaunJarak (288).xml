@@ -1,0 +1,98 @@
+<annotation>
+	<folder>paya biasa</folder>
+	<filename>DaunJarak (288).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\paya biasa\DaunJarak (288).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1458</xmin>
+			<ymin>1714</ymin>
+			<xmax>2290</xmax>
+			<ymax>2714</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2558</xmin>
+			<ymin>1090</ymin>
+			<xmax>3522</xmax>
+			<ymax>1990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1138</xmin>
+			<ymin>342</ymin>
+			<xmax>2014</xmax>
+			<ymax>1054</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>662</ymin>
+			<xmax>1438</xmax>
+			<ymax>1406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2522</xmin>
+			<ymin>1882</ymin>
+			<xmax>3358</xmax>
+			<ymax>2762</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2134</xmin>
+			<ymin>1174</ymin>
+			<xmax>2726</xmax>
+			<ymax>1818</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Jarak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>442</xmin>
+			<ymin>342</ymin>
+			<xmax>898</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+</annotation>

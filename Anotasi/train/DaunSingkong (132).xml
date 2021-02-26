@@ -1,0 +1,38 @@
+<annotation>
+	<folder>singkong</folder>
+	<filename>DaunSingkong (132).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\singkong\DaunSingkong (132).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Singkong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>297</ymin>
+			<xmax>3558</xmax>
+			<ymax>2556</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Singkong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1851</xmin>
+			<ymin>1130</ymin>
+			<xmax>2703</xmax>
+			<ymax>2030</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>paya jepang</folder>
+	<filename>DaunPepayaJepang (186).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\paya jepang\DaunPepayaJepang (186).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Pepaya Jepang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>1755</ymin>
+			<xmax>2309</xmax>
+			<ymax>3560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daun Pepaya Jepang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>904</xmin>
+			<ymin>292</ymin>
+			<xmax>2193</xmax>
+			<ymax>1802</ymax>
+		</bndbox>
+	</object>
+</annotation>

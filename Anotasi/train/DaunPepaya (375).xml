@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paya biasa</folder>
+	<filename>DaunPepaya (375).jpg</filename>
+	<path>C:\Users\Abiyosowr\Pictures\Images\New folder\train\paya biasa\DaunPepaya (375).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daun Pepaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>839</ymin>
+			<xmax>2683</xmax>
+			<ymax>3744</ymax>
+		</bndbox>
+	</object>
+</annotation>

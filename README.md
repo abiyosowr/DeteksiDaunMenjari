@@ -6,3 +6,6 @@
 
 ## Flowchart dari Algoritma Faster R-CNN
 ![](FlowchartArsitekturFasterR-CNN.png)
+
+## 5 Variable daun yang dapat terdeteksi
+![](background5.png)

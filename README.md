@@ -8,4 +8,4 @@
 ![](FlowchartArsitekturFasterR-CNN.png)
 
 ## Lima Variable daun yang dapat terdeteksi
-![](background5.png)
+![](variabledaun.png)

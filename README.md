@@ -11,7 +11,7 @@
 ![](variabledaun.png)
 
 ## Tampilan Aplikasi
-![](Tampilan Aplikasi.png)
+![](TampilanAplikasi.png)
 
 ## Akurasi Daun Secara Realtime
-![](Hasil Akurasi Daun.png)
+![](HasilAkurasiDaun.png)

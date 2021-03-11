@@ -9,3 +9,9 @@
 
 ## Lima Variable daun yang dapat terdeteksi
 ![](variabledaun.png)
+
+## Tampilan Aplikasi
+![](Tampilan Aplikasi.png)
+
+## Akurasi Daun Secara Realtime
+![](Hasil Akurasi Daun.png)
